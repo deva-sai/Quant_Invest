@@ -1,1 +1,1 @@
-# Quant_Trade/Invest
+# Investment models
