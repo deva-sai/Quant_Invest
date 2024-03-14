@@ -1,1 +1,1 @@
-# Investment models
+# Quant investment models
